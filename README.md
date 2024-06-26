@@ -57,5 +57,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Author
 
 Vimukthi Wijerathne
-
-You can create the `README.md` file in the root directory of your project and include the above content. This will provide an overview of the project, instructions for setting it up, and how to play the game.
